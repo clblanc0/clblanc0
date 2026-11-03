@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Christian 👋
 
-<!--
-**clblanc0/clblanc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Neuroengineering PhD candidate at UAB and founder of SignaLab. I build systems that decode noisy signals from complex systems, and I care a lot about knowing when a result is fooling us.
 
-Here are some ideas to get you started:
+**What I work on**
+- **Neural decoding:** EEG/EMG models for BCI and sleep-onset detection (EEGNet, CNNs, held-out-subject validation)
+- **Neurotech data infrastructure:** turning messy multimodal recordings into analysis-ready BIDS datasets
+- **Trustworthy agent tooling:** AI agents that act through gated, auditable, evidence-linked tools
+- **Closed-loop neuromodulation:** taVNS with EEG, HRV, and eye tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured**
+| Project | What it is |
+|---|---|
+| [SignaLab](https://github.com/clblanc0/SignaLab) | Local-first EDF + behavioral CSV to BIDS pipeline with least-squares clock sync (offset + drift) |
+| [ProtocolOS](https://github.com/clblanc0/protocolos-webmcp) | Research-ops workspace exposing 14 WebMCP tools to agents, with rule-gated actions the model can't override |
+| [MedDelta](https://devpost.com/software/protocolguard) | Evidence-linked medication contradiction review that abstains when evidence is missing |
+
+**Stack:** Python · MATLAB · TypeScript · scikit-learn · MNE-Python · EEGLAB · mne-bids · FastAPI · React
+
+💼 [LinkedIn](https://www.linkedin.com/in/christian-lopez-blanco-5003a1309) · 📍 Birmingham, AL
