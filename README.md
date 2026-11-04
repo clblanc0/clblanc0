@@ -17,4 +17,4 @@ Neuroengineering PhD candidate at UAB and founder of SignaLab. I build systems t
 
 **Stack:** Python · MATLAB · TypeScript · scikit-learn · MNE-Python · EEGLAB · mne-bids · FastAPI · React
 
-💼 [LinkedIn](https://www.linkedin.com/in/christian-lopez-blanco-5003a1309) · 📍 Birmingham, AL
+🌐 [christianlopezblanco.com](https://www.christianlopezblanco.com) · 💼 [LinkedIn](https://www.linkedin.com/in/christian-lopez-blanco-5003a1309) · 📍 Birmingham, AL
