@@ -13,7 +13,7 @@ Neuroengineering PhD candidate at UAB and founder of SignaLab. I build systems t
 |---|---|
 | [SignaLab](https://github.com/clblanc0/SignaLab) | Local-first EDF + behavioral CSV to BIDS pipeline with least-squares clock sync (offset + drift) |
 | [ProtocolOS](https://github.com/clblanc0/protocolos-webmcp) | Research-ops workspace exposing 14 WebMCP tools to agents, with rule-gated actions the model can't override |
-| [MedDelta](https://devpost.com/software/protocolguard) | Evidence-linked medication contradiction review that abstains when evidence is missing |
+| [MedDelta](https://github.com/clblanc0/meddelta) | Evidence-linked medication contradiction review that abstains when evidence is missing |
 
 **Stack:** Python · MATLAB · TypeScript · scikit-learn · MNE-Python · EEGLAB · mne-bids · FastAPI · React
 
