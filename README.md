@@ -3,7 +3,7 @@
 Neuroengineering PhD candidate at UAB and founder of SignaLab. I build systems that decode noisy signals from complex systems, and I care a lot about knowing when a result is fooling us.
 
 **What I work on**
-- **Neural decoding:** EEG/EMG models for BCI and sleep-onset detection (EEGNet, CNNs, held-out-subject validation)
+- **Neural decoding:** EEG decoding for brain-computer interfaces (BCI), validated on held-out participants; 0.796 balanced accuracy in the EEG/EMG Foundation Challenge 2026
 - **Neurotech data infrastructure:** turning messy multimodal recordings into analysis-ready BIDS datasets
 - **Trustworthy agent tooling:** AI agents that act through gated, auditable, evidence-linked tools
 - **Closed-loop neuromodulation:** taVNS with EEG, HRV, and eye tracking
